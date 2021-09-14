@@ -1,0 +1,83 @@
+{
+"products": [{
+  "id": 1,
+  "name": "Lappet-faced vulture",
+  "color": "Aquamarine"
+}, {
+  "id": 2,
+  "name": "Steenbuck",
+  "color": "Teal"
+}, {
+  "id": 3,
+  "name": "Nile crocodile",
+  "color": "Fuscia"
+}, {
+  "id": 4,
+  "name": "Wallaby, river",
+  "color": "Violet"
+}, {
+  "id": 5,
+  "name": "Dromedary camel",
+  "color": "Goldenrod"
+}, {
+  "id": 6,
+  "name": "Long-necked turtle",
+  "color": "Violet"
+}, {
+  "id": 7,
+  "name": "Hornbill, leadbeateri's ground",
+  "color": "Yellow"
+}, {
+  "id": 8,
+  "name": "Parakeet, rose-ringed",
+  "color": "Turquoise"
+}, {
+  "id": 9,
+  "name": "Red phalarope",
+  "color": "Violet"
+}, {
+  "id": 10,
+  "name": "Insect, stick",
+  "color": "Pink"
+}, {
+  "id": 11,
+  "name": "Chuckwalla",
+  "color": "Pink"
+}, {
+  "id": 12,
+  "name": "Cape fox",
+  "color": "Pink"
+}, {
+  "id": 13,
+  "name": "Bald eagle",
+  "color": "Goldenrod"
+}, {
+  "id": 14,
+  "name": "White-throated kingfisher",
+  "color": "Pink"
+}, {
+  "id": 15,
+  "name": "Spur-winged goose",
+  "color": "Green"
+}, {
+  "id": 16,
+  "name": "Cat, kaffir",
+  "color": "Pink"
+}, {
+  "id": 17,
+  "name": "Wallaby, euro",
+  "color": "Khaki"
+}, {
+  "id": 18,
+  "name": "Native cat",
+  "color": "Fuscia"
+}, {
+  "id": 19,
+  "name": "Potoroo",
+  "color": "Turquoise"
+}, {
+  "id": 20,
+  "name": "Bird (unidentified)",
+  "color": "Purple"
+}]
+}
