@@ -1,4 +1,6 @@
-[{
+{
+  "data": [
+{
   "id": 1,
   "name": "Cheetah",
   "image": "http://dummyimage.com/221x100.png/ff4444/ffffff"
@@ -78,4 +80,6 @@
   "id": 20,
   "name": "Mountain lion",
   "image": "http://dummyimage.com/212x100.png/cc0000/ffffff"
-}]
+}
+  ]
+}
