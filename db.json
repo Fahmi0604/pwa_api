@@ -1,83 +1,81 @@
-{
-"products": [{
+[{
   "id": 1,
-  "name": "Lappet-faced vulture",
-  "color": "Aquamarine"
+  "name": "Cheetah",
+  "image": "http://dummyimage.com/221x100.png/ff4444/ffffff"
 }, {
   "id": 2,
-  "name": "Steenbuck",
-  "color": "Teal"
+  "name": "Bald eagle",
+  "image": "http://dummyimage.com/123x100.png/5fa2dd/ffffff"
 }, {
   "id": 3,
-  "name": "Nile crocodile",
-  "color": "Fuscia"
+  "name": "Blue duck",
+  "image": "http://dummyimage.com/177x100.png/5fa2dd/ffffff"
 }, {
   "id": 4,
-  "name": "Wallaby, river",
-  "color": "Violet"
+  "name": "Goose, cape barren",
+  "image": "http://dummyimage.com/183x100.png/cc0000/ffffff"
 }, {
   "id": 5,
-  "name": "Dromedary camel",
-  "color": "Goldenrod"
+  "name": "Snowy egret",
+  "image": "http://dummyimage.com/123x100.png/ff4444/ffffff"
 }, {
   "id": 6,
-  "name": "Long-necked turtle",
-  "color": "Violet"
+  "name": "Sloth, two-toed tree",
+  "image": "http://dummyimage.com/173x100.png/cc0000/ffffff"
 }, {
   "id": 7,
-  "name": "Hornbill, leadbeateri's ground",
-  "color": "Yellow"
+  "name": "Large-eared bushbaby",
+  "image": "http://dummyimage.com/222x100.png/5fa2dd/ffffff"
 }, {
   "id": 8,
-  "name": "Parakeet, rose-ringed",
-  "color": "Turquoise"
+  "name": "Sloth, hoffman's",
+  "image": "http://dummyimage.com/170x100.png/dddddd/000000"
 }, {
   "id": 9,
-  "name": "Red phalarope",
-  "color": "Violet"
+  "name": "Ring-tailed lemur",
+  "image": "http://dummyimage.com/114x100.png/5fa2dd/ffffff"
 }, {
   "id": 10,
-  "name": "Insect, stick",
-  "color": "Pink"
+  "name": "Paca",
+  "image": "http://dummyimage.com/151x100.png/5fa2dd/ffffff"
 }, {
   "id": 11,
-  "name": "Chuckwalla",
-  "color": "Pink"
+  "name": "Wallaby, tammar",
+  "image": "http://dummyimage.com/158x100.png/dddddd/000000"
 }, {
   "id": 12,
-  "name": "Cape fox",
-  "color": "Pink"
+  "name": "Legaan, ground",
+  "image": "http://dummyimage.com/101x100.png/dddddd/000000"
 }, {
   "id": 13,
-  "name": "Bald eagle",
-  "color": "Goldenrod"
+  "name": "Waxbill, black-cheeked",
+  "image": "http://dummyimage.com/205x100.png/dddddd/000000"
 }, {
   "id": 14,
-  "name": "White-throated kingfisher",
-  "color": "Pink"
+  "name": "Admiral, indian red",
+  "image": "http://dummyimage.com/230x100.png/cc0000/ffffff"
 }, {
   "id": 15,
-  "name": "Spur-winged goose",
-  "color": "Green"
+  "name": "Crow, american",
+  "image": "http://dummyimage.com/190x100.png/ff4444/ffffff"
 }, {
   "id": 16,
-  "name": "Cat, kaffir",
-  "color": "Pink"
+  "name": "Common wallaroo",
+  "image": "http://dummyimage.com/188x100.png/dddddd/000000"
 }, {
   "id": 17,
-  "name": "Wallaby, euro",
-  "color": "Khaki"
+  "name": "Clark's nutcracker",
+  "image": "http://dummyimage.com/240x100.png/ff4444/ffffff"
 }, {
   "id": 18,
-  "name": "Native cat",
-  "color": "Fuscia"
+  "name": "Shark, blue",
+  "image": "http://dummyimage.com/167x100.png/cc0000/ffffff"
 }, {
   "id": 19,
-  "name": "Potoroo",
-  "color": "Turquoise"
+  "name": "Slender loris",
+  "image": "http://dummyimage.com/127x100.png/dddddd/000000"
 }, {
   "id": 20,
-  "name": "Bird (unidentified)",
-  "color": "Purple"
+  "name": "Mountain lion",
+  "image": "http://dummyimage.com/212x100.png/cc0000/ffffff"
 }]
-}
